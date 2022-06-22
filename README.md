@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: Html, Css, Python.
 - 💞️ I’m looking to collaborate on ............
-- 📫 How to reach me: Discord: Mezalith#9397
+- 📫 How to reach me: discordapp.com/users/Mezalith#9397
 
 <!---
 Mezalith/Mezalith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
