@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mezalith
 - 👀 I’m interested in: Coding Stuff
 
-- 🌱 I’m currently learning: Html, Css, Javascript, Python, Game Dev.
+- 🌱 I’m currently learning: Web Dev
 - 💞️ I’m looking to collaborate on ....................................................
 - 📫 How to reach me: discordapp.com/users/Mezalith
 
