@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mezalith
-- 👀 I’m interested in: Coding Stuff
+- 👀 I’m interested in: Software
 
 - 🌱 I’m currently learning: Web Dev
 - 💞️ I’m looking to collaborate on ....................................................
