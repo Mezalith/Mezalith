@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mezalith
-- 👀 I’m interested in: Software
+- 👀 I’m interested in: I.T
 
-- 🌱 I’m currently learning: Web Dev
+- 🌱 I’m currently learning: ...
 - 💞️ I’m looking to collaborate on ....................................................
 - 📫 How to reach me: discordapp.com/users/Mezalith
 
