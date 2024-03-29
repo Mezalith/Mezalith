@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mezalith
-- 👀 I’m interested in: I.T
+- 👀 I’m interested in: Software engineering Web Dev
 
-- 🌱 I’m currently learning: ...
+- 🌱 I’m currently learning: C#, .NET
 - 💞️ I’m looking to collaborate on ....................................................
 - 📫 How to reach me: discordapp.com/users/Mezalith
 
