@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mezalith
-- 👀 I’m interested in: Software engineering, Maybe Cyber security..
+- 👀 I’m interested in: Cyber security
 
-- 🌱 I’m currently learning: Rustlang
-- 💞️ I’m looking to collaborate on ....................................................
+- 🌱 I’m currently learning: Cyber security
+- 💞️ I’m looking to collaborate on x
 - 📫 How to reach me: discordapp.com/users/Mezalith
 
 <!---
